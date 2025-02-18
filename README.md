@@ -2,7 +2,7 @@
 BLOOD GROUP DETECTION USING FINGERPRINT With Code Documents And Video Tutorial
 
 
-### Youtube Link: https://youtu.be/iT8UDetqHnE?si=kjnGs8D9sO6VNhA2
+## Youtube Link: https://youtu.be/iT8UDetqHnE?si=kjnGs8D9sO6VNhA2
 
 ### Abstract: 
 This innovative project proposes a non-invasive, cost-effective, and efficient method for detecting an individual's blood group using fingerprint analysis. The system utilizes image processing techniques to extract unique patterns and features from fingerprints, which are then correlated with specific blood groups. The project aims to provide a reliable and rapid blood group identification system, eliminating the need for invasive blood tests. This technology has far-reaching implications in various fields, including healthcare, forensic science, and emergency medicine, where timely and accurate blood group identification is crucial. The proposed system has the potential to revolutionize the way blood groups are detected, making it a valuable contribution to the field of biomedical engineering and healthcare.
